@@ -1,0 +1,13 @@
+.input {
+	font-family: "Raleway", sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 48px;
+	text-align: left;
+	padding: 26px 18px;
+	border: 1px solid #FFFFFF80;
+	background: #003642;
+	color: #CCE2E6;
+	border-radius: 12px;
+	width: 540px;
+}
